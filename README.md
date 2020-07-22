@@ -9,4 +9,6 @@
 - 💬 Ask me about anything related to python django
 - 📫 How to reach me: Email
 
+[![Nazmul's github stats](https://github-readme-stats.vercel.app/api?username=nazmul199512)](https://github.com/nazmul199512/github-readme-stats)
+
 
