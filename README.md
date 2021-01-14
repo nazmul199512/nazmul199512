@@ -11,8 +11,8 @@ Python, JavaScript, C/C++, PHP
 ```
 About me:
 
-- 🔭 I’m currently working as a freelance Developer 
-- 🌱 Currently learning React
+
+- 🌱 Currently learning ReactJs
 
 
 
