@@ -7,7 +7,7 @@
 
 ## Programming Languages
 ```
-Python, php, JavaScript, C/C++
+Python, php, JavaScript, C
 ```
 About me:
 
